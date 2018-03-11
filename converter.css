@@ -1,0 +1,60 @@
+ body{
+  margin: 0;
+  padding:0;
+  background-color:rgb(103, 186, 214);
+  font-family:Microsoft JhengHei;
+}
+
+h1,h2,h3,h4,h5{
+  display: inline;
+}
+
+
+#conveter_outer{
+   
+   background-color:rgb(241, 234, 234) ;
+   height:200px;
+   width:780px;
+   margin:200px auto 0 auto;/*margin: [top] [right] [bottom] [left]; */
+   padding: 10px;
+   box-shadow: 10px 10px 5px rgb(109, 98, 98);
+}
+
+
+#title_right{
+     float:right;
+}
+
+#converter_inner_2{
+   
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#converter_inner_3{
+    
+    margin-top:20px;
+    margin-bottom: 25px;   
+}
+#converter_inner_4{
+   
+    margin-top:40px;
+    margin-bottom: 5px;   
+ 
+}
+#update_time{
+    margin: 0;
+}
+#output_money{
+  border-bottom-style: solid;
+  border-width:2px;
+  width:250px;
+  max-width:250px;
+  display: inline-block;
+  margin:0;
+  text-align: right;
+} 
+
+#update_time_title{
+  margin:0;
+}
+
